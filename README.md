@@ -1,1 +1,4 @@
-sheilsarda@gmail.com | [Blog](https://sheilsarda.github.io/robotics-blog) | [LinkedIn](https://www.linkedin.com/in/sheilsarda/)
+- **Email**: sheilsarda@gmail.com
+- [**Substack**](https://sheilsarda.substack.com/)
+- [**Blog**](https://sheilsarda.github.io/robotics-blog)
+- [**LinkedIn**](https://www.linkedin.com/in/sheilsarda/)
